@@ -1,7 +1,7 @@
 # Zomato dataset - data cleaning - project description
 
 ###### Disclaimer:
-I am a beginner, who is in learning [pandas][plink]. So I am not a pro in data analytics. In this small project, it was my first time to deal with real world data.  
+I am a beginner, who is in learning [pandas](https://pandas.pydata.org/). So I am not a pro in data analytics. In this small project, it was my first time to deal with real world data.  
 But soon I will become better as I am trying hard, and putting efforts consistently.
 
 #### What did I do in this project?
@@ -16,7 +16,7 @@ But soon I will become better as I am trying hard, and putting efforts consisten
 ![cat_typing](https://i.pinimg.com/originals/84/1a/eb/841aeb9f113999616d097b414c539dfd.gif)
 
 #### Dataset used in this project:
-It's a dataset of the orders made by zomato in metropolitan cities. To get the data set **[CLICK HERE][dataset_link]**
+It's a dataset of the orders made by zomato in metropolitan cities. To get the data set **[CLICK HERE](https://www.kaggle.com/datasets/narsingraogoud/zomato-restaurants-dataset-for-metropolitan-areas)**
 
-[dataset_link]: (https://www.kaggle.com/datasets/narsingraogoud/zomato-restaurants-dataset-for-metropolitan-areas)
-[plink]: (https://pandas.pydata.org/)
+
+
