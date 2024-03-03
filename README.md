@@ -18,5 +18,5 @@ But soon I will become better as I am trying hard, and putting efforts consisten
 #### Dataset used in this project:
 It's a dataset of the orders made by zomato in metropolitan cities. To get the data set **[CLICK HERE][dataset_link]**
 
-[dataset_link](https://www.kaggle.com/datasets/narsingraogoud/zomato-restaurants-dataset-for-metropolitan-areas)
-[plink](https://pandas.pydata.org/)
+[dataset_link]: (https://www.kaggle.com/datasets/narsingraogoud/zomato-restaurants-dataset-for-metropolitan-areas)
+[plink]: (https://pandas.pydata.org/)
