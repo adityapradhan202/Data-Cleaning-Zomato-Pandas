@@ -9,7 +9,7 @@
 6. Created a simple statistical description of the entire Dataframe.
 7. Displayed few important points from the statistics.
 
-![cat_typing](https://i.pinimg.com/originals/84/1a/eb/841aeb9f113999616d097b414c539dfd.gif)
+![gif_animated](https://media.licdn.com/dms/image/D4E12AQHFTYesKzpoSA/article-cover_image-shrink_720_1280/0/1674740361456?e=2147483647&v=beta&t=ftw2gD-lIrE3gSOuBu0AahDwN-uJ18aJ9o0onxfUwQE)
 
 ### Dataset used in this project:
 It's a dataset of the orders made by zomato in metropolitan cities. To get the data set **[click here](https://www.kaggle.com/datasets/narsingraogoud/zomato-restaurants-dataset-for-metropolitan-areas)**
