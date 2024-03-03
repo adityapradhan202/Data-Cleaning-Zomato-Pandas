@@ -14,3 +14,9 @@ But soon I will become better as I am trying hard, and putting efforts consisten
 7. Displayed few important points from the statistics.
 
 ![cat_typing](https://i.pinimg.com/originals/84/1a/eb/841aeb9f113999616d097b414c539dfd.gif)
+
+#### Dataset used in this project:
+It's a dataset of the orders made by zomato in metropolitan cities. To get the data set **[CLICK HERE][dataset_link]**
+
+[dataset_link](https://www.kaggle.com/datasets/narsingraogoud/zomato-restaurants-dataset-for-metropolitan-areas)
+[plink](https://pandas.pydata.org/)
