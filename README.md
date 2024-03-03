@@ -1,9 +1,5 @@
 # Zomato dataset - data cleaning - project description
 
-###### Disclaimer:
-I am a beginner, who is in learning **[pandas](https://pandas.pydata.org/)**. So I am not a pro in data analytics. In this small project, it was my first time to deal with real world data.  
-But soon I will become better as I am trying hard, and putting efforts consistently.
-
 #### What did I do in this project?
 1. Removed the unwanted columns.
 2. Dealt with missing values in some columns.
@@ -17,6 +13,11 @@ But soon I will become better as I am trying hard, and putting efforts consisten
 
 #### Dataset used in this project:
 It's a dataset of the orders made by zomato in metropolitan cities. To get the data set **[click here](https://www.kaggle.com/datasets/narsingraogoud/zomato-restaurants-dataset-for-metropolitan-areas)**
+
+#### Disclaimer:
+I am a beginner, who is in learning **[pandas](https://pandas.pydata.org/)**. So I am not a pro in data analytics. In this small project, it was my first time to deal with real world data.  
+But soon I will become better as I am trying hard, and putting efforts consistently.
+
 
 
 
