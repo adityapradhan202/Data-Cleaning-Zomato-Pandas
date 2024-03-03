@@ -14,7 +14,7 @@
 ### Dataset used in this project:
 It's a dataset of the orders made by zomato in metropolitan cities. To get the data set **[click here](https://www.kaggle.com/datasets/narsingraogoud/zomato-restaurants-dataset-for-metropolitan-areas)**
 
-#### Disclaimer:
+Note:  
 I am a beginner, who is in learning **[pandas](https://pandas.pydata.org/)**. So I am not a pro in data analytics. In this small project, it was my first time to deal with real world data.  
 But soon I will become better as I am trying hard, and putting efforts consistently.
 
