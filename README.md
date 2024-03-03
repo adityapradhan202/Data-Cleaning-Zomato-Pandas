@@ -1,6 +1,6 @@
 # Zomato dataset - data cleaning - project description
 
-#### What did I do in this project?
+### What did I do in this project?
 1. Removed the unwanted columns.
 2. Dealt with missing values in some columns.
 3. Applied conditional filtering to remove the entries of those orders in which people haven't voted.
