@@ -1,1 +1,16 @@
-# Data-Cleaning-Zomato-Pandas
+# Zomato dataset - data cleaning - project description
+
+###### Disclaimer:
+I am a beginner, who is in learning [pandas][plink]. So I am not a pro in data analytics. In this small project, it was my first time to deal with real world data.  
+But soon I will become better as I am trying hard, and putting efforts consistently.
+
+#### What did I do in this project?
+1. Removed the unwanted columns.
+2. Dealt with missing values in some columns.
+3. Applied conditional filtering to remove the entries of those orders in which people haven't voted.
+4. Renamed a few columns accordint to my suitability.
+5. Grouped columns, and applied a mean aggregate method to all the aggregate values of the categorical columns.
+6. Created a simple statistical description of the entire Dataframe.
+7. Displayed few important points from the statistics.
+
+![cat_typing](https://i.pinimg.com/originals/84/1a/eb/841aeb9f113999616d097b414c539dfd.gif)
